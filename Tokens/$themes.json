@@ -3,9 +3,7 @@
     "id": "7577360206be602449f1b71c34de5933d59d31cb",
     "name": "Light",
     "group": "Coastal",
-    "selectedTokenSets": {
-      "premium-one/coastal-light": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {
       "theme.font-family.headings": "5022ac2445ce5a9697501b6865b0449fc959bcc7",
@@ -77,9 +75,7 @@
     "id": "68cc311ba274df69ab9fd8b64b03c5eb4d20e070",
     "name": "Dark",
     "group": "Coastal",
-    "selectedTokenSets": {
-      "premium-one/coastal-dark": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaStyleReferences": {},
     "$figmaVariableReferences": {},
     "$figmaCollectionId": "VariableCollectionId:2027:4418",
