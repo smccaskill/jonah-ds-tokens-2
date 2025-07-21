@@ -1,11 +1,8 @@
 {
   "tokenSetOrder": [
-    "core",
-    "viewport/desktop",
-    "viewport/tablet",
-    "viewport/mobile",
-    "theme-base/light",
-    "theme-base/premium-one",
-    "theme-base/corporate"
+    "Core",
+    "Viewport/Desktop",
+    "Viewport/Mobile",
+    "Theme/Premium One"
   ]
 }

@@ -1,0 +1,302 @@
+{
+  "primary": {
+    "h1": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Headings}",
+        "fontWeight": "{Text.Font Weight.Headings}",
+        "fontSize": "{Font Size.Scaled.375}",
+        "letterSpacing": "{Text.Letter Spacing.Headings}",
+        "textCase": "{Text.Text Case.Headings}",
+        "lineHeight": "{Line Height.s}"
+      },
+      "type": "typography"
+    },
+    "h2": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Headings}",
+        "fontWeight": "{Text.Font Weight.Headings}",
+        "fontSize": "{Font Size.Scaled.300}",
+        "lineHeight": "{Text.Line Height.Headings}",
+        "letterSpacing": "{Text.Letter Spacing.Headings}",
+        "textCase": "{Text.Text Case.Headings}"
+      },
+      "type": "typography"
+    },
+    "h3": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Headings}",
+        "fontWeight": "{Text.Font Weight.Headings}",
+        "fontSize": "{Font Size.Scaled.225}",
+        "lineHeight": "{Text.Line Height.Headings}",
+        "letterSpacing": "{Text.Letter Spacing.Headings}",
+        "textCase": "{Text.Text Case.Headings}"
+      },
+      "type": "typography"
+    },
+    "h4": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Headings}",
+        "fontWeight": "{Text.Font Weight.Headings}",
+        "fontSize": "{Font Size.Scaled.200}",
+        "lineHeight": "{Text.Line Height.Headings}",
+        "letterSpacing": "{Text.Letter Spacing.Headings}",
+        "textCase": "{Text.Text Case.Headings}"
+      },
+      "type": "typography"
+    },
+    "h5": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Headings}",
+        "fontWeight": "{Text.Font Weight.Headings}",
+        "fontSize": "{Font Size.Scaled.150}",
+        "lineHeight": "{Text.Line Height.Headings}",
+        "letterSpacing": "{Text.Letter Spacing.Headings}",
+        "textCase": "{Text.Text Case.Headings}"
+      },
+      "type": "typography"
+    },
+    "h6": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Headings}",
+        "fontWeight": "{Text.Font Weight.Headings}",
+        "fontSize": "{Font Size.Scaled.112}",
+        "lineHeight": "{Text.Line Height.Headings}",
+        "letterSpacing": "{Text.Letter Spacing.Headings}",
+        "textCase": "{Text.Text Case.Headings}"
+      },
+      "type": "typography"
+    }
+  },
+  "secondary": {
+    "body-x-large": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Body}",
+        "fontWeight": "{Text.Font Weight.Body}",
+        "fontSize": "{font-size.body.xl}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "body-large": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Body}",
+        "fontWeight": "{Text.Font Weight.Body}",
+        "fontSize": "{font-size.body.lg}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "body-medium": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Body}",
+        "fontWeight": "{Text.Font Weight.Body}",
+        "fontSize": "{font-size.body.md}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "body-small": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Body}",
+        "fontWeight": "{Text.Font Weight.Body}",
+        "fontSize": "{Font Size.Scaled.87}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "body-x-small": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Body}",
+        "fontWeight": "{Text.Font Weight.Body}",
+        "fontSize": "{Font Size.Scaled.75}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "disclaimer": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Body}",
+        "fontWeight": "{font-weight.body}",
+        "fontSize": "{Font Size.Scaled.87}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "text-link": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Body}",
+        "fontWeight": "{Font Weight.regular}",
+        "fontSize": "{Font Size.Scaled.100}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "text-link-small": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Body}",
+        "fontWeight": "{font-weight.button}",
+        "fontSize": "{Font Size.Scaled.87}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "button-large": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Button}",
+        "fontWeight": "{Text.Font Weight.Button}",
+        "fontSize": "{Font Size.Scaled.112}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "button-medium": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Button}",
+        "fontWeight": "{Text.Font Weight.Button}",
+        "fontSize": "{Font Size.Scaled.100}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "button-small": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Button}",
+        "fontWeight": "{font-weight.button}",
+        "fontSize": "{Font Size.Scaled.87}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "button-xs": {
+      "value": {
+        "fontFamily": "{Text.Font Family.Button}",
+        "fontWeight": "{font-weight.button}",
+        "fontSize": "{Font Size.Scaled.75}",
+        "lineHeight": "{Text.Line Height.Body}",
+        "letterSpacing": "{Text.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    }
+  },
+  "size": {
+    "container": {
+      "max-width": {
+        "value": "{Viewport.1440}",
+        "type": "sizing"
+      }
+    },
+    "spacer": {
+      "xs": {
+        "value": "{Dimension.62}",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "{Dimension.125}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{Dimension.250}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{Dimension.500}",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "{Dimension.625}",
+        "type": "sizing"
+      }
+    }
+  },
+  "font-size": {
+    "body": {
+      "xs": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "sm": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "md": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "lg": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "20",
+        "type": "fontSizes"
+      }
+    },
+    "headings": {
+      "h1": {
+        "value": "{Font Size.Scaled.375}",
+        "type": "fontSizes"
+      },
+      "h2": {
+        "value": "{Font Size.Scaled.300}",
+        "type": "fontSizes"
+      },
+      "h3": {
+        "value": "{Font Size.Scaled.225}",
+        "type": "fontSizes"
+      },
+      "h4": {
+        "value": "{Font Size.Scaled.187}",
+        "type": "fontSizes"
+      },
+      "h5": {
+        "value": "{Font Size.Scaled.150}",
+        "type": "fontSizes"
+      },
+      "h6": {
+        "value": "{Font Size.Scaled.112}",
+        "type": "fontSizes"
+      }
+    }
+  },
+  "component": {
+    "overlay-card": {
+      "button": {
+        "value": "false",
+        "type": "boolean",
+        "description": "Hides the button on mobile"
+      },
+      "description": {
+        "value": "true",
+        "type": "boolean",
+        "description": "Hides the description on mobile"
+      }
+    }
+  },
+  "button": {
+    "height": {
+      "sm": {
+        "value": "{Premium One.Button Height.sm}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{Premium One.Button Height.md}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{Premium One.Button Height.lg}",
+        "type": "sizing"
+      }
+    }
+  }
+}
