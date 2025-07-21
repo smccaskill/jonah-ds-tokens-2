@@ -1,0 +1,848 @@
+{
+  "dimension": {
+    "0": {
+      "value": "0",
+      "type": "dimension"
+    },
+    "6": {
+      "value": "{dimension.base} * 6.25",
+      "type": "dimension"
+    },
+    "12": {
+      "value": "{dimension.base} * 12.5",
+      "type": "dimension"
+    },
+    "25": {
+      "value": "{dimension.base} * 25",
+      "type": "dimension"
+    },
+    "37": {
+      "value": "{dimension.base} * 37.5",
+      "type": "dimension"
+    },
+    "50": {
+      "value": "{dimension.base} * 50",
+      "type": "dimension"
+    },
+    "62": {
+      "value": "{dimension.base} * 62.5",
+      "type": "dimension"
+    },
+    "75": {
+      "value": "{dimension.base} * 75",
+      "type": "dimension"
+    },
+    "100": {
+      "value": "{dimension.base} * 100",
+      "type": "dimension"
+    },
+    "112": {
+      "value": "{dimension.base} * 112.5",
+      "type": "dimension"
+    },
+    "125": {
+      "value": "{dimension.base} * 125",
+      "type": "dimension"
+    },
+    "150": {
+      "value": "{dimension.base} * 150",
+      "type": "dimension"
+    },
+    "175": {
+      "value": "{dimension.base} * 175",
+      "type": "dimension"
+    },
+    "200": {
+      "value": "{dimension.base} * 200",
+      "type": "dimension"
+    },
+    "225": {
+      "value": "{dimension.base} * 225",
+      "type": "dimension"
+    },
+    "250": {
+      "value": "{dimension.base} * 250",
+      "type": "dimension"
+    },
+    "300": {
+      "value": "{dimension.base} * 300",
+      "type": "dimension"
+    },
+    "350": {
+      "value": "{dimension.base} * 350",
+      "type": "dimension"
+    },
+    "375": {
+      "value": "{dimension.base} * 375",
+      "type": "dimension"
+    },
+    "400": {
+      "value": "{dimension.base} * 400",
+      "type": "dimension"
+    },
+    "425": {
+      "value": "{dimension.base} * 437.5",
+      "type": "dimension"
+    },
+    "450": {
+      "value": "{dimension.base} * 450",
+      "type": "dimension"
+    },
+    "500": {
+      "value": "{dimension.base} * 500",
+      "type": "dimension"
+    },
+    "550": {
+      "value": "{dimension.base} * 562.5",
+      "type": "dimension"
+    },
+    "600": {
+      "value": "{dimension.base} * 600",
+      "type": "dimension"
+    },
+    "625": {
+      "value": "{dimension.base} * 625",
+      "type": "dimension"
+    },
+    "700": {
+      "value": "{dimension.base} * 700",
+      "type": "dimension"
+    },
+    "800": {
+      "value": "{dimension.base} * 800",
+      "type": "dimension"
+    },
+    "900": {
+      "value": "{dimension.base} * 900",
+      "type": "dimension"
+    },
+    "1000": {
+      "value": "{dimension.base} * 1000",
+      "type": "dimension"
+    },
+    "1100": {
+      "value": "{dimension.base} * 1100",
+      "type": "dimension"
+    },
+    "1200": {
+      "value": "{dimension.base} * 1200",
+      "type": "dimension"
+    },
+    "1300": {
+      "value": "{dimension.base} * 1300",
+      "type": "dimension"
+    },
+    "1400": {
+      "value": "{dimension.base} * 1400",
+      "type": "dimension"
+    },
+    "1500": {
+      "value": "{dimension.base} * 1500",
+      "type": "dimension"
+    },
+    "1600": {
+      "value": "{dimension.base} * 1600",
+      "type": "dimension"
+    },
+    "2000": {
+      "value": "{dimension.base} * 2000",
+      "type": "dimension"
+    },
+    "2400": {
+      "value": "{dimension.base} * 2400",
+      "type": "dimension"
+    },
+    "base": {
+      "value": "{size.SCALE} / 100",
+      "type": "dimension"
+    }
+  },
+  "color": {
+    "neutral": {
+      "0": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "10": {
+        "value": "#f7f7f7",
+        "type": "color"
+      },
+      "20": {
+        "value": "#e5e5e5",
+        "type": "color"
+      },
+      "30": {
+        "value": "#ccc",
+        "type": "color"
+      },
+      "40": {
+        "value": "#999",
+        "type": "color"
+      },
+      "50": {
+        "value": "#676767",
+        "type": "color"
+      },
+      "60": {
+        "value": "#454545",
+        "type": "color"
+      },
+      "70": {
+        "value": "#333",
+        "type": "color"
+      },
+      "80": {
+        "value": "#202020",
+        "type": "color"
+      },
+      "90": {
+        "value": "#131313",
+        "type": "color"
+      }
+    },
+    "red": {
+      "0": {
+        "value": "#FBE8E8",
+        "type": "color"
+      },
+      "10": {
+        "value": "#F5C7C7",
+        "type": "color"
+      },
+      "20": {
+        "value": "#EB8F8F",
+        "type": "color"
+      },
+      "30": {
+        "value": "#E15757",
+        "type": "color"
+      },
+      "40": {
+        "value": "#D81F1F",
+        "type": "color"
+      },
+      "50": {
+        "value": "#B41919",
+        "type": "color"
+      },
+      "60": {
+        "value": "#901414",
+        "type": "color"
+      },
+      "70": {
+        "value": "#6C0F0F",
+        "type": "color"
+      },
+      "80": {
+        "value": "#480A0A",
+        "type": "color"
+      },
+      "90": {
+        "value": "#2B0606",
+        "type": "color"
+      }
+    },
+    "green": {
+      "10": {
+        "value": "#F2F6F0",
+        "type": "color"
+      },
+      "20": {
+        "value": "#D8E6D2",
+        "type": "color"
+      },
+      "30": {
+        "value": "#BED6B5",
+        "type": "color"
+      },
+      "40": {
+        "value": "#A4C598",
+        "type": "color"
+      },
+      "50": {
+        "value": "#7dad6c",
+        "type": "color"
+      },
+      "60": {
+        "value": "#648A56",
+        "type": "color"
+      },
+      "70": {
+        "value": "#4B6740",
+        "type": "color"
+      },
+      "80": {
+        "value": "#3E5636",
+        "type": "color"
+      },
+      "90": {
+        "value": "#253320",
+        "type": "color"
+      },
+      "100": {
+        "value": "#0C110A",
+        "type": "color"
+      }
+    },
+    "system": {
+      "white": {
+        "value": "#fff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000",
+        "type": "color"
+      }
+    },
+    "white": {
+      "opacity": {
+        "10": {
+          "value": "#FFFFFF",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "20": {
+          "value": "#FFFFFF",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "30": {
+          "value": "#FFFFFF",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      }
+    },
+    "black": {
+      "opacity": {
+        "10": {
+          "value": "#000000",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.1",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "20": {
+          "value": "#000000",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.2",
+                "space": "lch"
+              }
+            }
+          }
+        },
+        "30": {
+          "value": "#000000",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.3",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "border-radius": {
+    "0": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "6": {
+      "value": "{border-radius.base} * 6.25",
+      "type": "borderRadius"
+    },
+    "12": {
+      "value": "{border-radius.base} * 12.5",
+      "type": "borderRadius"
+    },
+    "25": {
+      "value": "{border-radius.base} * 25",
+      "type": "borderRadius"
+    },
+    "37": {
+      "value": "{border-radius.base} * 37.5",
+      "type": "borderRadius"
+    },
+    "50": {
+      "value": "{border-radius.base} * 50",
+      "type": "borderRadius"
+    },
+    "75": {
+      "value": "{border-radius.base} * 75",
+      "type": "borderRadius"
+    },
+    "100": {
+      "value": "{border-radius.base} * 100",
+      "type": "borderRadius"
+    },
+    "125": {
+      "value": "{border-radius.base} * 125",
+      "type": "borderRadius"
+    },
+    "150": {
+      "value": "{border-radius.base} * 150",
+      "type": "borderRadius"
+    },
+    "175": {
+      "value": "{border-radius.base} * 175",
+      "type": "borderRadius"
+    },
+    "200": {
+      "value": "{border-radius.base} * 200",
+      "type": "borderRadius"
+    },
+    "225": {
+      "value": "{border-radius.base} * 225",
+      "type": "borderRadius"
+    },
+    "300": {
+      "value": "{border-radius.base} * 300",
+      "type": "borderRadius"
+    },
+    "pill": {
+      "value": "1000",
+      "type": "borderRadius"
+    },
+    "base": {
+      "value": "{size.SCALE} / 100",
+      "type": "borderRadius"
+    }
+  },
+  "size": {
+    "SCALE": {
+      "value": "16",
+      "type": "sizing",
+      "description": "SCALE is the base-scale of all size-related tokens (size, space, dimension). The default is 16(px), so it relates to 1rem = 16(px) for font-sizes. If you change it, it will change all size-related tokens."
+    }
+  },
+  "border-width": {
+    "0": {
+      "value": "0",
+      "type": "borderWidth"
+    },
+    "10": {
+      "value": "1",
+      "type": "borderWidth"
+    },
+    "20": {
+      "value": "2",
+      "type": "borderWidth"
+    }
+  },
+  "line-height": {
+    "xs": {
+      "value": "100%",
+      "type": "lineHeights"
+    },
+    "s": {
+      "value": "120%",
+      "type": "lineHeights"
+    },
+    "m": {
+      "value": "130%",
+      "type": "lineHeights"
+    },
+    "l": {
+      "value": "140%",
+      "type": "lineHeights"
+    },
+    "xl": {
+      "value": "150%",
+      "type": "lineHeights"
+    },
+    "xxl": {
+      "value": "160%",
+      "type": "lineHeights"
+    }
+  },
+  "font-size": {
+    "REM": {
+      "value": "16",
+      "type": "fontSizes",
+      "description": "REM is the base-size of all font-sizes. The default is 16(px), so it relates to 1rem = 16(px). If you change it, it will change all font-related tokens."
+    },
+    "scaled": {
+      "50": {
+        "value": "{font-size.scaled.base} * 50",
+        "type": "fontSizes"
+      },
+      "62": {
+        "value": "{font-size.scaled.base} * 62.5",
+        "type": "fontSizes"
+      },
+      "75": {
+        "value": "{font-size.scaled.base} * 75",
+        "type": "fontSizes"
+      },
+      "87": {
+        "value": "{font-size.scaled.base} * 87.5",
+        "type": "fontSizes"
+      },
+      "100": {
+        "value": "{font-size.scaled.base} * 100",
+        "type": "fontSizes"
+      },
+      "112": {
+        "value": "{font-size.scaled.base} * 112.5",
+        "type": "fontSizes"
+      },
+      "125": {
+        "value": "{font-size.scaled.base} * 125",
+        "type": "fontSizes"
+      },
+      "150": {
+        "value": "{font-size.scaled.base} * 150",
+        "type": "fontSizes"
+      },
+      "175": {
+        "value": "{font-size.scaled.base} * 175",
+        "type": "fontSizes"
+      },
+      "187": {
+        "value": "{font-size.scaled.base} * 187.5",
+        "type": "fontSizes"
+      },
+      "200": {
+        "value": "{font-size.scaled.base} * 200",
+        "type": "fontSizes"
+      },
+      "225": {
+        "value": "{font-size.scaled.base} * 225",
+        "type": "fontSizes"
+      },
+      "250": {
+        "value": "{font-size.scaled.base} * 250",
+        "type": "fontSizes"
+      },
+      "275": {
+        "value": "{font-size.scaled.base} * 275",
+        "type": "fontSizes"
+      },
+      "300": {
+        "value": "{font-size.scaled.base} * 300",
+        "type": "fontSizes"
+      },
+      "325": {
+        "value": "{font-size.scaled.base} * 325",
+        "type": "fontSizes"
+      },
+      "350": {
+        "value": "{font-size.scaled.base} * 350",
+        "type": "fontSizes"
+      },
+      "375": {
+        "value": "{font-size.scaled.base} * 375",
+        "type": "fontSizes"
+      },
+      "400": {
+        "value": "{font-size.scaled.base} * 400",
+        "type": "fontSizes"
+      },
+      "450": {
+        "value": "{font-size.scaled.base} * 450",
+        "type": "fontSizes"
+      },
+      "500": {
+        "value": "{font-size.scaled.base} * 500",
+        "type": "fontSizes"
+      },
+      "550": {
+        "value": "{font-size.scaled.base} * 550",
+        "type": "fontSizes"
+      },
+      "600": {
+        "value": "{font-size.scaled.base} * 600",
+        "type": "fontSizes"
+      },
+      "base": {
+        "value": "{font-size.REM} / 100",
+        "type": "fontSizes",
+        "description": "Depending on what unit you want to add to your font-sizes, you have to change your calculation here:\nIf you are adding px (or nothing which defaults to px) in your font-size tokens, use this calculation here: {font-size.REM} / 100\nIf you are adding rem, use: 1/100"
+      }
+    },
+    "typescale": {
+      "xxs": {
+        "value": "{font-size.scaled.base} * 75",
+        "type": "fontSizes"
+      },
+      "xs": {
+        "value": "{font-size.scaled.base} * 87.5",
+        "type": "fontSizes"
+      },
+      "s": {
+        "value": "{font-size.scaled.base} * 100",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "{font-size.scaled.base} * 112.5",
+        "type": "fontSizes"
+      },
+      "ml": {
+        "value": "{font-size.scaled.base} * 125",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "{font-size.scaled.base} * 150",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "{font-size.scaled.base} * 175",
+        "type": "fontSizes"
+      },
+      "xxl": {
+        "value": "{font-size.scaled.base} * 225",
+        "type": "fontSizes"
+      },
+      "xxxl": {
+        "value": "{font-size.scaled.base} * 300",
+        "type": "fontSizes"
+      },
+      "4x": {
+        "value": "{font-size.scaled.base} * 375",
+        "type": "fontSizes"
+      },
+      "base": {
+        "value": "{font-size.REM} / 100",
+        "type": "fontSizes",
+        "description": "Depending on what unit you want to add to your font-sizes, you have to change your calculation here:\nIf you are adding px (or nothing which defaults to px) in your font-size tokens, use this calculation here: {font-size.REM} / 100\nIf you are adding rem, use: 1/100"
+      }
+    }
+  },
+  "text-decoration": {
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    }
+  },
+  "opacity": {
+    "low": {
+      "value": "20%",
+      "type": "opacity"
+    },
+    "medium": {
+      "value": "60%",
+      "type": "opacity"
+    },
+    "high": {
+      "value": "80%",
+      "type": "opacity"
+    }
+  },
+  "device": {
+    "mobile": {
+      "xs": {
+        "value": "320",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "360",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "375",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "480",
+        "type": "sizing"
+      }
+    },
+    "tablet": {
+      "sm": {
+        "value": "768",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "1024",
+        "type": "sizing"
+      }
+    },
+    "desktop": {
+      "xs": {
+        "value": "1280",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "1440",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "1680",
+        "type": "sizing"
+      },
+      "large": {
+        "value": "1728",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "1920",
+        "type": "sizing"
+      }
+    }
+  },
+  "border": {
+    "boxed-dark": {
+      "sm": {
+        "value": {
+          "width": "{border-width.sm}",
+          "style": "solid",
+          "color": "{theme.border.on-primary}"
+        },
+        "type": "border"
+      },
+      "md": {
+        "value": {
+          "width": "{border-width.md}",
+          "style": "solid",
+          "color": "{theme.border.on-primary}"
+        },
+        "type": "border"
+      }
+    }
+  },
+  "font-weight": {
+    "light": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "extra-light": {
+      "value": "Extra Light",
+      "type": "fontWeights"
+    },
+    "thin": {
+      "value": "Thin",
+      "type": "fontWeights"
+    },
+    "book": {
+      "value": "Book",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "extra-bold": {
+      "value": "Extra Bold",
+      "type": "fontWeights"
+    },
+    "black": {
+      "value": "Black",
+      "type": "fontWeights"
+    },
+    "extra-black": {
+      "value": "Extra Black",
+      "type": "fontWeights"
+    }
+  },
+  "premium-one": {
+    "horizontal-padding": {
+      "sm-button": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "md-button": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "lg-button": {
+        "value": "36",
+        "type": "spacing"
+      }
+    },
+    "vertical-padding": {
+      "sm-button": {
+        "value": "19",
+        "type": "spacing"
+      },
+      "md-button": {
+        "value": "22",
+        "type": "spacing"
+      },
+      "lg-button": {
+        "value": "18",
+        "type": "spacing"
+      }
+    }
+  },
+  "premium": {
+    "horizontal-padding": {
+      "sm-button": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "md-button": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "lg-button": {
+        "value": "36",
+        "type": "spacing"
+      }
+    },
+    "vertical-padding": {
+      "sm-button": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "md-button": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "lg-button": {
+        "value": "18",
+        "type": "spacing"
+      }
+    }
+  }
+}

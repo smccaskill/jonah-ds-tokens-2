@@ -1,0 +1,425 @@
+{
+  "theme": {
+    "font-family": {
+      "headings": {
+        "value": "GTF Agentur TRIAL",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Niveau Grotesk",
+        "type": "fontFamilies"
+      },
+      "button": {
+        "value": "{theme.font-family.body}",
+        "type": "fontFamilies"
+      }
+    },
+    "letter-spacing": {
+      "headings": {
+        "value": "0",
+        "type": "letterSpacing"
+      },
+      "body": {
+        "value": "0",
+        "type": "letterSpacing"
+      },
+      "button": {
+        "value": "0",
+        "type": "letterSpacing"
+      }
+    },
+    "font-weight": {
+      "headings": {
+        "value": "{font-weight.regular}",
+        "type": "fontWeights"
+      },
+      "body": {
+        "value": "{font-weight.regular}",
+        "type": "fontWeights"
+      },
+      "button": {
+        "value": "{font-weight.bold}",
+        "type": "fontWeights"
+      }
+    },
+    "button": {
+      "height": {
+        "sm": {
+          "value": "{dimension.250}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{dimension.300}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{dimension.400}",
+          "type": "sizing"
+        }
+      },
+      "vertical-padding": {
+        "sm": {
+          "value": "{premium-one.vertical-padding.sm-button}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{premium-one.vertical-padding.md-button}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{premium-one.vertical-padding.lg-button}",
+          "type": "spacing"
+        }
+      },
+      "horizontal-padding": {
+        "sm": {
+          "value": "{premium-one.horizontal-padding.sm-button}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{premium-one.horizontal-padding.md-button}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{premium-one.horizontal-padding.lg-button}",
+          "type": "spacing"
+        }
+      }
+    },
+    "text-case": {
+      "headings": {
+        "value": "uppercase",
+        "type": "textCase"
+      },
+      "body": {
+        "value": "null",
+        "type": "textCase"
+      },
+      "button": {
+        "value": "uppercase",
+        "type": "textCase"
+      }
+    },
+    "line-height": {
+      "headings": {
+        "value": "{line-height.s}",
+        "type": "lineHeights"
+      },
+      "body": {
+        "value": "{line-height.xl}",
+        "type": "lineHeights"
+      },
+      "headings-mobile": {
+        "value": "{line-height.s}",
+        "type": "lineHeights"
+      }
+    },
+    "colors": {
+      "brand": {
+        "value": "#2A4033",
+        "type": "color"
+      },
+      "bg-primary": {
+        "value": "#F2ECE0",
+        "type": "color"
+      },
+      "bg-secondary": {
+        "value": "#DDBC9B",
+        "type": "color"
+      },
+      "text-dark": {
+        "value": "#A3583C",
+        "type": "color"
+      },
+      "text-light": {
+        "value": "#F2ECE0",
+        "type": "color"
+      }
+    },
+    "on-colors": {
+      "on-primary": {
+        "value": "{theme.colors.text-dark}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{theme.colors.text-dark}",
+        "type": "color"
+      },
+      "on-brand": {
+        "value": "{theme.colors.text-light}",
+        "type": "color"
+      },
+      "on-image": {
+        "value": "{theme.colors.text-light}",
+        "type": "color"
+      },
+      "on-disabled": {
+        "value": "{color.system.white}",
+        "type": "color"
+      },
+      "on-error": {
+        "value": "{color.system.white}",
+        "type": "color"
+      }
+    },
+    "background": {
+      "primary": {
+        "value": "{theme.colors.bg-primary}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{theme.colors.bg-secondary}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{theme.colors.brand}",
+        "type": "color"
+      },
+      "accent-1": {
+        "value": "{theme.colors.text-dark}",
+        "type": "color"
+      },
+      "accent-2": {
+        "value": "#3B2B38",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "primary": {
+        "value": "{theme.colors.bg-primary}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{theme.colors.bg-secondary}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{theme.colors.brand}",
+        "type": "color"
+      },
+      "transparent-white": {
+        "value": "{color.system.white}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "transparent-black": {
+        "value": "{color.system.black}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.2",
+              "space": "lch"
+            }
+          }
+        }
+      },
+      "white": {
+        "value": "{color.system.white}",
+        "type": "color"
+      }
+    },
+    "text": {
+      "primary-dark": {
+        "value": "{theme.colors.text-dark}",
+        "type": "color"
+      },
+      "secondary-dark": {
+        "value": "{theme.colors.text-dark}",
+        "type": "color"
+      },
+      "primary-light": {
+        "value": "{theme.colors.text-light}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{theme.colors.brand}",
+        "type": "color"
+      },
+      "placeholder": {
+        "value": "{color.neutral.40}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.neutral.20}",
+        "type": "color"
+      }
+    },
+    "divider": {
+      "on-primary": {
+        "value": "#D3D3D3",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "#D3D3D3",
+        "type": "color"
+      },
+      "on-brand": {
+        "value": "{theme.colors.text-light}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "on-primary": {
+        "value": "{theme.colors.text-dark}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{theme.colors.text-dark}",
+        "type": "color"
+      },
+      "on-brand": {
+        "value": "{theme.colors.text-light}",
+        "type": "color"
+      },
+      "focus": {
+        "value": "{theme.colors.brand}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{color.neutral.20}",
+        "type": "color"
+      },
+      "button": {
+        "value": {
+          "color": "{theme.border.on-brand}",
+          "width": "{border-width.10}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
+    },
+    "action": {
+      "primary": {
+        "value": "{theme.colors.brand}",
+        "type": "color"
+      },
+      "primary-border": {
+        "value": "{theme.colors.brand}",
+        "type": "color"
+      },
+      "light": {
+        "value": "{theme.colors.text-light}",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{theme.colors.text-dark}",
+        "type": "color"
+      }
+    },
+    "alert": {
+      "error": {
+        "value": "{color.red.40}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{color.green.50}",
+        "type": "color"
+      }
+    },
+    "border-width": {
+      "box": {
+        "value": "{border-width.sm}",
+        "type": "borderWidth"
+      }
+    },
+    "link": {
+      "on-primary": {
+        "value": "{theme.colors.brand}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{theme.colors.brand}",
+        "type": "color"
+      },
+      "on-brand": {
+        "value": "{theme.colors.text-light}",
+        "type": "color"
+      }
+    },
+    "border-radius": {
+      "button": {
+        "value": "{border-radius.selectable.square}",
+        "type": "borderRadius"
+      },
+      "input": {
+        "value": "{border-radius.25}",
+        "type": "borderRadius"
+      },
+      "image-base-scale": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "image-scale-1x": {
+        "value": "{theme.border-radius.image-base-scale} * 1.5",
+        "type": "borderRadius"
+      },
+      "image-scale-2x": {
+        "value": "{theme.border-radius.image-base-scale} * 2",
+        "type": "borderRadius"
+      },
+      "image-half-scale": {
+        "value": "{theme.border-radius.image-base-scale} / 2",
+        "type": "borderRadius"
+      }
+    }
+  },
+  "font-size": {
+    "typescale": {
+      "2xs": {
+        "value": "{font-size.scaled.base} * 75",
+        "type": "fontSizes"
+      },
+      "xs": {
+        "value": "{font-size.scaled.base} * 87.5",
+        "type": "fontSizes"
+      },
+      "s": {
+        "value": "{font-size.scaled.base} * 100",
+        "type": "fontSizes"
+      },
+      "m": {
+        "value": "{font-size.scaled.base} * 112.5",
+        "type": "fontSizes"
+      },
+      "ml": {
+        "value": "{font-size.scaled.base} * 125",
+        "type": "fontSizes"
+      },
+      "l": {
+        "value": "{font-size.scaled.base} * 150",
+        "type": "fontSizes"
+      },
+      "xl": {
+        "value": "{font-size.scaled.base} * 175",
+        "type": "fontSizes"
+      },
+      "2xl": {
+        "value": "{font-size.scaled.base} * 225",
+        "type": "fontSizes"
+      },
+      "3xl": {
+        "value": "{font-size.scaled.base} * 300",
+        "type": "fontSizes"
+      },
+      "4xl": {
+        "value": "{font-size.scaled.base} * 375",
+        "type": "fontSizes"
+      },
+      "base": {
+        "value": "{font-size.REM} / 100",
+        "type": "fontSizes",
+        "description": "Depending on what unit you want to add to your font-sizes, you have to change your calculation here:\nIf you are adding px (or nothing which defaults to px) in your font-size tokens, use this calculation here: {font-size.REM} / 100\nIf you are adding rem, use: 1/100"
+      }
+    }
+  }
+}
