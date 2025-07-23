@@ -301,70 +301,70 @@
       "type": "borderRadius"
     },
     "6": {
-      "value": "{Border Radius.base} * 6.25",
+      "value": "{Border Radius.Base} * 6.25",
       "type": "borderRadius"
     },
     "12": {
-      "value": "{Border Radius.base} * 12.5",
+      "value": "{Border Radius.Base} * 12.5",
       "type": "borderRadius"
     },
     "25": {
-      "value": "{Border Radius.base} * 25",
+      "value": "{Border Radius.Base} * 25",
       "type": "borderRadius"
     },
     "37": {
-      "value": "{Border Radius.base} * 37.5",
+      "value": "{Border Radius.Base} * 37.5",
       "type": "borderRadius"
     },
     "50": {
-      "value": "{Border Radius.base} * 50",
+      "value": "{Border Radius.Base} * 50",
       "type": "borderRadius"
     },
     "75": {
-      "value": "{Border Radius.base} * 75",
+      "value": "{Border Radius.Base} * 75",
       "type": "borderRadius"
     },
     "100": {
-      "value": "{Border Radius.base} * 100",
+      "value": "{Border Radius.Base} * 100",
       "type": "borderRadius"
     },
     "125": {
-      "value": "{Border Radius.base} * 125",
+      "value": "{Border Radius.Base} * 125",
       "type": "borderRadius"
     },
     "150": {
-      "value": "{Border Radius.base} * 150",
+      "value": "{Border Radius.Base} * 150",
       "type": "borderRadius"
     },
     "175": {
-      "value": "{Border Radius.base} * 175",
+      "value": "{Border Radius.Base} * 175",
       "type": "borderRadius"
     },
     "200": {
-      "value": "{Border Radius.base} * 200",
+      "value": "{Border Radius.Base} * 200",
       "type": "borderRadius"
     },
     "225": {
-      "value": "{Border Radius.base} * 225",
+      "value": "{Border Radius.Base} * 225",
       "type": "borderRadius"
     },
     "300": {
-      "value": "{Border Radius.base} * 300",
+      "value": "{Border Radius.Base} * 300",
       "type": "borderRadius"
     },
-    "pill": {
+    "Pill": {
       "value": "1000",
       "type": "borderRadius"
     },
-    "rounded": {
+    "Rounded": {
       "value": "4",
       "type": "borderRadius"
     },
-    "square": {
+    "Square": {
       "value": "0",
       "type": "borderRadius"
     },
-    "base": {
+    "Base": {
       "value": "{Size.SCALE} / 100",
       "type": "borderRadius"
     }
@@ -522,7 +522,7 @@
       }
     },
     "Typescale": {
-      "xxs": {
+      "2xs": {
         "value": "{Font Size.Scaled.base} * 75",
         "type": "fontSizes"
       },
@@ -550,16 +550,20 @@
         "value": "{Font Size.Scaled.base} * 175",
         "type": "fontSizes"
       },
-      "xxl": {
+      "2xl": {
         "value": "{Font Size.Scaled.base} * 225",
         "type": "fontSizes"
       },
-      "xxxl": {
+      "3xl": {
         "value": "{Font Size.Scaled.base} * 300",
         "type": "fontSizes"
       },
-      "4x": {
+      "4xl": {
         "value": "{Font Size.Scaled.base} * 375",
+        "type": "fontSizes"
+      },
+      "5xl": {
+        "value": "{Font Size.Scaled.base} * 450",
         "type": "fontSizes"
       },
       "base": {
@@ -612,47 +616,47 @@
     }
   },
   "Font Weight": {
-    "light": {
+    "Light": {
       "value": "Light",
       "type": "fontWeights"
     },
-    "extra-light": {
+    "Extra Light": {
       "value": "Extra Light",
       "type": "fontWeights"
     },
-    "thin": {
+    "Thin": {
       "value": "Thin",
       "type": "fontWeights"
     },
-    "book": {
+    "Book": {
       "value": "Book",
       "type": "fontWeights"
     },
-    "regular": {
+    "Regular": {
       "value": "Regular",
       "type": "fontWeights"
     },
-    "medium": {
+    "Medium": {
       "value": "Medium",
       "type": "fontWeights"
     },
-    "semibold": {
+    "Semibold": {
       "value": "SemiBold",
       "type": "fontWeights"
     },
-    "bold": {
+    "Bold": {
       "value": "Bold",
       "type": "fontWeights"
     },
-    "extra-bold": {
+    "Extra Bold": {
       "value": "Extra Bold",
       "type": "fontWeights"
     },
-    "black": {
+    "Black": {
       "value": "Black",
       "type": "fontWeights"
     },
-    "extra-black": {
+    "Extra Black": {
       "value": "Extra Black",
       "type": "fontWeights"
     }
