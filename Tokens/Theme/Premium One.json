@@ -453,36 +453,6 @@
       },
       "type": "typography"
     },
-    "Disclaimer": {
-      "value": {
-        "fontFamily": "{Theme.Font Family.Body}",
-        "fontWeight": "{Theme.Font Weight.Body}",
-        "fontSize": "{Font Size.Secondary.Button Small}",
-        "lineHeight": "{Theme.Line Height.Body}",
-        "letterSpacing": "{Theme.Letter Spacing.Body}"
-      },
-      "type": "typography"
-    },
-    "Text Link": {
-      "value": {
-        "fontFamily": "{Theme.Font Family.Body}",
-        "fontWeight": "{Font Weight.Regular}",
-        "fontSize": "{Font Size.Scaled.100}",
-        "lineHeight": "{Theme.Line Height.Body}",
-        "letterSpacing": "{Theme.Letter Spacing.Body}"
-      },
-      "type": "typography"
-    },
-    "Text Link Small": {
-      "value": {
-        "fontFamily": "{Theme.Font Family.Body}",
-        "fontWeight": "{Theme.Font Weight.Button}",
-        "fontSize": "{Font Size.Scaled.87}",
-        "lineHeight": "{Theme.Line Height.Body}",
-        "letterSpacing": "{Theme.Letter Spacing.Body}"
-      },
-      "type": "typography"
-    },
     "Button Large": {
       "value": {
         "fontFamily": "{Theme.Font Family.Button}",
@@ -518,6 +488,46 @@
         "fontFamily": "{Theme.Font Family.Button}",
         "fontWeight": "{Theme.Font Weight.Button}",
         "fontSize": "{Font Size.Scaled.75}",
+        "lineHeight": "{Theme.Line Height.Body}",
+        "letterSpacing": "{Theme.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "Text Link Large": {
+      "value": {
+        "fontFamily": "{Theme.Font Family.Body}",
+        "fontWeight": "{Font Weight.Regular}",
+        "fontSize": "{Font Size.Secondary.Text Link Large}",
+        "lineHeight": "{Theme.Line Height.Body}",
+        "letterSpacing": "{Theme.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "Text Link Medium": {
+      "value": {
+        "fontFamily": "{Theme.Font Family.Body}",
+        "fontWeight": "{Font Weight.Regular}",
+        "fontSize": "{Font Size.Secondary.Text Link Medium}",
+        "lineHeight": "{Theme.Line Height.Body}",
+        "letterSpacing": "{Theme.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "Text Link Small": {
+      "value": {
+        "fontFamily": "{Theme.Font Family.Body}",
+        "fontWeight": "{Theme.Font Weight.Button}",
+        "fontSize": "{Font Size.Secondary.Text Link Small}",
+        "lineHeight": "{Theme.Line Height.Body}",
+        "letterSpacing": "{Theme.Letter Spacing.Body}"
+      },
+      "type": "typography"
+    },
+    "Disclaimer": {
+      "value": {
+        "fontFamily": "{Theme.Font Family.Body}",
+        "fontWeight": "{Theme.Font Weight.Body}",
+        "fontSize": "{Font Size.Secondary.Body Small}",
         "lineHeight": "{Theme.Line Height.Body}",
         "letterSpacing": "{Theme.Letter Spacing.Body}"
       },

@@ -76,6 +76,18 @@
       "Button Extra Small": {
         "value": "12",
         "type": "fontSizes"
+      },
+      "Text Link Large": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "Text Link Medium": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "Text Link Small": {
+        "value": "14",
+        "type": "fontSizes"
       }
     }
   },
@@ -113,6 +125,16 @@
     "Container": {
       "Max Width": {
         "value": "{Viewport.1440}",
+        "type": "sizing"
+      }
+    },
+    "Map Bubble": {
+      "Container Width": {
+        "value": "132",
+        "type": "sizing"
+      },
+      "Logo Width": {
+        "value": "92",
         "type": "sizing"
       }
     }
